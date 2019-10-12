@@ -9,3 +9,5 @@ not work through github to pull direct
 make changes via window
 
 this msg will pull in cmd after this change
+
+this is for smart git
